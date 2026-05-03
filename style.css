@@ -66,6 +66,7 @@ body {
   color: #fff;
 }
 
+<<<<<<< HEAD
 .hero-stat {
   border-left: 3px solid var(--brand-maroon);
   padding-left: 1rem;
@@ -83,6 +84,8 @@ body {
   letter-spacing: 0.06em;
 }
 
+=======
+>>>>>>> 66b3cac19a99de890339aad7705583d353078816
 /* ── Services ───────────────────────────────────────── */
 #services {
   background: #fcf7f9;
@@ -123,10 +126,15 @@ body {
   align-items: center;
   justify-content: center;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66b3cac19a99de890339aad7705583d353078816
 .about-check {
   color: var(--brand-maroon);
 }
 
+<<<<<<< HEAD
 /* ── Team ───────────────────────────────────────────── */
 #team {
   background: #fcf7f9;
@@ -182,23 +190,41 @@ body {
   color: var(--brand-maroon);
 }
 
+=======
+>>>>>>> 66b3cac19a99de890339aad7705583d353078816
 /* ── Footer ─────────────────────────────────────────── */
 footer {
   background: var(--brand-dark);
   color: #64748b;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66b3cac19a99de890339aad7705583d353078816
 footer a {
   color: #64748b;
   text-decoration: none;
 }
+<<<<<<< HEAD
 footer a:hover {
   color: var(--brand-maroon-light);
 }
+=======
+
+footer a:hover {
+  color: var(--brand-maroon-light);
+}
+
+>>>>>>> 66b3cac19a99de890339aad7705583d353078816
 footer .footer-brand {
   color: #f1f5f9;
   font-weight: 700;
   font-size: 1.2rem;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66b3cac19a99de890339aad7705583d353078816
 footer .footer-brand span {
   color: var(--brand-maroon-light);
 }
